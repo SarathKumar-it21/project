@@ -3,12 +3,12 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo "hgfhjgfdyhcd"
+               // echo "hgfhjgfdyhcd"
             }
         }
         stage('Test') {
             steps {
-               echo "hgfhjgfdyhcd"
+              // echo "hgfhjgfdyhcd"
             }
         }
 
